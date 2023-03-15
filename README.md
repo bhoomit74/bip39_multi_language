@@ -6,6 +6,7 @@
 
 ### bip39
 > Dart implementation of [Bitcoin BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki): Mnemonic code for generating deterministic keys
+
 BIP39 is a design specification that specifies how cryptocurrency wallets generate the set of words (or "mnemonic codes") that comprise a mnemonic sentence, and how the wallet converts them into a binary "seed" that is used to generate encryption keys, which are then used to execute cryptocurrency transactions.
 
 ## Examples
