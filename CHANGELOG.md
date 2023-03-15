@@ -3,3 +3,6 @@
 
 ## 0.0.2
 - Minor bug fixes.
+
+## 0.0.3
+- Update README.md.

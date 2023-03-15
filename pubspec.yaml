@@ -1,6 +1,6 @@
 name: bip39_multi_language
 description: Dart package for generating mnemonic code in 10 different languages.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/bhoomit74/bip39_multi_language
 
 environment:
